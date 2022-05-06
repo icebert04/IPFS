@@ -11,7 +11,7 @@
   
   
 
-Here's a screenshot of the NFT collection **IPFS** that I've built..
+Here's a screenshot of the NFT collection in **IPFS** that I've built..
 
 The metadata and image files in Pinata
 ![IPFS](/images/Pinata.png)  
