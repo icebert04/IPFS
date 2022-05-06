@@ -8,11 +8,11 @@
 * Used **Hardhat** for smart contract deployment, as well as importing **Openzeppelin's Contracts**
 * Got API keys from **[Alchemy]**(https://dashboard.alchemyapi.io/) and **[Mumbai Faucet]**(https://chainlist.org/)
 * npm install **Web3Modal library** in order to connect DeFI dApp to the **Metamask** wallet
-  
-  
+* The smart contract is deployed to the **Polygon** testnet **Mumbai**  
+ 
+Here's a screenshot of the NFT collection in **IPFS** that I've built..  
 
-Here's a screenshot of the NFT collection in **IPFS** that I've built..
-
+---
 The metadata and image files in Pinata
 ![IPFS](/images/Pinata.png)  
 
